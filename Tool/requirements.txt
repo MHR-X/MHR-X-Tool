@@ -1,2 +1,7 @@
 requests
+pyfiglet
+python-whois
+colorama
+beautifulsoup4
+concurrent
 tqdm
